@@ -1,4 +1,4 @@
-FROM bentoml/model-server:0.8.3
+FROM bentoml/model-server:0.8.3-slim-py38
 
 # copy over model files
 COPY . /bento
