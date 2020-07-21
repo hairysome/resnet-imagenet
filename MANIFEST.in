@@ -1,0 +1,2 @@
+include OnnxResnet50/bentoml.yml
+graft OnnxResnet50/artifacts

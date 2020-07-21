@@ -1,0 +1,6 @@
+name: bentoml-OnnxResnet50
+channels:
+- defaults
+dependencies:
+- python=3.8.2
+- pip
