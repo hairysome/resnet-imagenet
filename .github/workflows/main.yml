@@ -35,7 +35,7 @@ jobs:
     runs-on: ubuntu-latest
     needs: [build]
     env:
-      HEROKU_APP_NAME: resnet-image
+      HEROKU_APP_NAME: resnet-imagenet
       HEROKU_REGISTRY_IMAGE: registry.heroku.com/${HEROKU_APP_NAME}/api
     steps:
       - name: Checkout master
