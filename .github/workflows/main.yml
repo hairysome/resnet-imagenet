@@ -1,4 +1,4 @@
-name: Continuous Integration and Delivery
+name: Continuous Deployment to Heroku
 
 on: [push]
 
