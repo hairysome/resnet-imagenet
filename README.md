@@ -1,4 +1,4 @@
-# Generated BentoService bundle - OnnxResnet50:20200725175411_478850
+# Generated BentoService bundle - OnnxResnet50:20200725231211_51EA7C
 
 This is a ML Service bundle created with BentoML, it is not recommended to edit
 code or files contained in this directory. Instead, edit the code that uses BentoML

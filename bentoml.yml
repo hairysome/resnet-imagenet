@@ -1,9 +1,9 @@
 version: 0.8.3
 kind: BentoService
 metadata:
-  created_at: 2020-07-25 09:54:22.211427
+  created_at: 2020-07-25 15:12:21.378956
   service_name: OnnxResnet50
-  service_version: '20200725175411_478850'
+  service_version: 20200725231211_51EA7C
   module_name: onnx_resnet50
   module_file: onnx_resnet50.py
 env:
