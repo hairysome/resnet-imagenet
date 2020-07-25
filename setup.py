@@ -28,9 +28,9 @@ except Exception:
 
 setuptools.setup(
     name='OnnxResnet50',
-    version='20200720193608_F1EC1D',
+    version='20200725175411_478850',
     description="BentoML generated model module",
-    long_description="""# Generated BentoService bundle - OnnxResnet50:20200720193608_F1EC1D
+    long_description="""# Generated BentoService bundle - OnnxResnet50:20200725175411_478850
 
 This is a ML Service bundle created with BentoML, it is not recommended to edit
 code or files contained in this directory. Instead, edit the code that uses BentoML
